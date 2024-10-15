@@ -17,3 +17,10 @@ Designed for seamless browsing on any device, the gallery is both visually strik
 
 # Demo
 ![link-to-live-demo](https://github.com/OmkarMaurya-g1/IMAGE-GALLERY/blob/main/ImgGallery%20Demo.png).  
+
+# Technologies Used
+The Image Gallery Project utilizes the following modern technologies:
+
+- **HTML5**: For structuring the web application.
+- **CSS**: For stylish and responsive design.
+- **JavaScript**: For dynamic functionality and interactivity.
