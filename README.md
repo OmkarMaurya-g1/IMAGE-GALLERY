@@ -16,4 +16,4 @@ Designed for seamless browsing on any device, the gallery is both visually strik
 - **Accessibility**: Inclusive design with screen reader support and alt text.  
 
 # Demo
-![Demo Img](link-to-live-demo).  
+![link-to-live-demo](https://github.com/OmkarMaurya-g1/IMAGE-GALLERY/blob/main/ImgGallery%20Demo.png).  
